@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-web-container
-        image: nginx:1.25.0
+        image: nginx:1.24.0
         ports:
         - containerPort: 80
